@@ -22,16 +22,17 @@
 
 To get started with Vortex Linux, follow these steps:
 
-1. **Download the ISO**: [Download Vortex Linux](#)
-2. **Installation Guide**: Follow the [installation guide](#) to set up Vortex Linux on your machine.
-3. **User Documentation**: Explore our [user documentation](#) for detailed instructions and tips on using Vortex Linux.
-4. **Discord Server**: Join our [discord server](#) to connect with other Vortex Linux users and get help with any issues.
+1. **Download the ISO**: [Download Vortex Linux](https://vortexlinux.org/download/)
+2. **Installation Guide**: Follow the [installation guide](https://vortexlinux.readthedocs.io/en/latest/installation_guide.html) to set up Vortex Linux on your machine.
+3. **User Documentation**: Explore our [user documentation](https://vortexlinux.readthedocs.io/en/latest/) for detailed instructions and tips on using Vortex Linux.
+4. **Discord Server**: Join our [discord server](https://discord.gg/MsF24qUA5y) to connect with other Vortex Linux users and get help with any issues.
 
 ## Contributing
 
-We welcome contributions from the community! If you're interested in contributing to Vortex Linux, please read our [contribution guidelines](#) and check out the [open issues](#) on our GitHub repository.
+We welcome contributions from the community! If you're interested in contributing to Vortex Linux, please read our [contribution guidelines](https://vortexlinux.readthedocs.io/en/latest/contributing.html) and check out open issues on any of our GitHub repository.
 
 ## Contact Us
 
-For more information, please visit our [website](#) or join our Discord server and send a message at [Vortex Linux](#).
-
+For more information, please visit our [website](https://vortexlinux.org).
+You can also join our [Discord server](https://discord.gg/MsF24qUA5y) for community support and discussions.
+For inquiries, feel free to [email us](mailto:vortexlinuxproject@gmail.com).
